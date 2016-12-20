@@ -75,7 +75,7 @@ dsfdsfdsfdsadsfdsfdsfdsadsfdsfdsfdsavdsfdsfdsfdsa
 
 
 1. Bullet point #1
-2. [Bullet point #2](#bullet-point-#2)
+2. [Bullet point #2](#bullet-point-2)
 
 dsfdsfdsfdsadsfdsfdsfdsa
 v
