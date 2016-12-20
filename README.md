@@ -9,7 +9,7 @@ Other test upstream commit
 
 
 
-[link to heading 1](11-heading-1-testing-something)
+[link to heading 1](#11-heading-1-testing-something)
 
 
 
