@@ -28,7 +28,7 @@ dsfdsfdsfdsadsfdsfdsfdsadsfdsfdsfdsavdsfdsfdsfdsa
 
 [link to heading 1](#11-heading-1-testing-something)
 
-
+[link to bullet point 2](#bullet-point-#2)
 
 
 
