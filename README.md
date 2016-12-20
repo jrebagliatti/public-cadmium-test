@@ -1,4 +1,4 @@
-1. [Create Xamarin Forms application using iconography](#create-xamarin-forms-application-using-iconography)
+1. [Create Xamarin Forms application using iconography](#1-create-xamarin-forms-application-using-iconography)
 dsafdsafdsafdsakljfdslkjflkdsfds
 dsafdsafdsafdsakljfdslkjflkdsfds
 
