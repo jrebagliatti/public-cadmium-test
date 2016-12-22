@@ -1,7 +1,7 @@
 ---
 categories: DevOps
 redirect_from:
-  - /:categories:/:year/:month/:date/intupower.html
+  - /intupower.html
 ---
 
 Lower case
