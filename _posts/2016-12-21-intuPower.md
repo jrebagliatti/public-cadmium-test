@@ -1,6 +1,5 @@
 ---
 categories: DevOps
-permalink: /:year/:month/:day/sarasa.html
 ---
 
 Lower case
