@@ -1,5 +1,6 @@
 ---
 categories: DevOps
+permalink: /:categories/:year/:month:/:date/intupower.html
 ---
 
 Lower case
