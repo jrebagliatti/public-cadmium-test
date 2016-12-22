@@ -2,6 +2,7 @@
 categories: DevOps
 redirect_from:
   - /intupower.html
+  - /sarasa.html
 ---
 
 Lower case
