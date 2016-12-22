@@ -1,5 +1,5 @@
 ---
-permalink: /:year/:month/:day/intupower.html
+permalink: /:year/:month/:day/sarasa.html
 ---
 
 Lower case
