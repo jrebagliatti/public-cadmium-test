@@ -1,4 +1,4 @@
-baseurl: "/cadmium-tests" # the subpath of your site, e.g. /blog/
+baseurl: "/cadmium-tests/" # the subpath of your site, e.g. /blog/
 url: "https://southworkscom.github.io" # the base hostname & protocol for your site
 
 gems:
