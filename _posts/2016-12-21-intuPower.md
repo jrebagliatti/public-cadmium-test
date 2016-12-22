@@ -1,5 +1,7 @@
 ---
 categories: DevOps
+redirect_from:
+  - /post/123456789/
 ---
 
 Lower case
