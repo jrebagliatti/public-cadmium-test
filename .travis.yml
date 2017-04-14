@@ -12,3 +12,8 @@ branches:
 env:
     - commit = $TRAVIS_COMMIT_RANGE
 
+after_success: |
+  if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
+    git remote add public https://jrebagliatti:$GITHUB_API_KEY@github.com/jrebagliatti/public-cadmium-test
+    git push public master
+  fi
