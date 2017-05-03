@@ -10,6 +10,8 @@ var PostDirectory = "_posts";
 
 console.log(commitRange);
 
+console.log(process.env['GITHUB_API_KEY'])
+
 function GetModifedfiles (commitRange) {
 	var cmd = "git diff --name-only"+" "+commitRange
 	console.log(cmd);
